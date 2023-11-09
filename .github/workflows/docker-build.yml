@@ -24,4 +24,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: cr.yandex/crpan5r0hng8vnf3kqsk/catgpt
+        tags: cr.yandex/crp1ua16u1h7phn2d5fp/catgpt
